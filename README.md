@@ -35,7 +35,17 @@ This application is built around three distinct user panels, each providing tail
 
 ***
 
-### Installation steps
+## 🚀 Get the App
+
+The latest compiled APK file for the EduCamp application can be downloaded directly from the repository.
+
+[![Download APK](https://img.shields.io/badge/Download_APK-EduCamp_v1.0-blue?style=for-the-badge&logo=android)](EduCamp_v1.0.apk)
+
+***
+
+***
+
+### Project Installation steps
 To set up and run the EduCamp Android app locally, follow these steps:
 
 1.  **Prerequisites:** Ensure you have **Android Studio** installed on your system.
