@@ -52,7 +52,7 @@ To set up and run the EduCamp Android app locally, follow these steps:
     ```
 3.  **Open in Android Studio:**
     * Start Android Studio.
-    * Select **File** > **Open** and navigate to the cloned `EduCamp-android-app/EduCamp - project files` directory.
+    * Select **File** > **Open** and navigate to the cloned `EduCamp-android-app / EduCamp - project files` directory.
     * Android Studio will automatically download the necessary Gradle dependencies. Wait for the project sync to complete.
 
 ***
