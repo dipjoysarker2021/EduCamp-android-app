@@ -60,11 +60,8 @@ After successfully installing the project, you can run the app on an emulator or
 ***
 
 ### Screenshots
-A collection of screenshots showcasing the various user panels (Guardian, Teacher, and Admin) and key features of the EduCamp application.
+A collection of screenshots showcasing of the EduCamp application.
 
-| Installed App Icon | App Splash loading | App Panel |
-| :---: | :---: | :---: |
-| [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/installed%20app%20icon.jpg)] | [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/app%20splash%20screen%20loading.jpg)] | [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/apps%20interface.jpg)] |
 
 ### Installed App Icon
 ![Installed Icon](installed%20app%20icon.jpg)
