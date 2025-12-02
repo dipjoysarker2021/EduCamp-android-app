@@ -1,9 +1,9 @@
 # EduCamp - Android App 🎓 (Multi-Role System)
 
+![Project Logo](logo.png)
+
 ### Project title
 **EduCamp - Android App**
-
-![Project Logo](logo.png)
 
 ***
 
