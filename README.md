@@ -1,6 +1,4 @@
-# EduCamp-android-app
-
-# EduCamp - Android App 🎓
+# EduCamp - Android App 🎓 (Multi-Role System)
 
 ### Project title
 **EduCamp - Android App**
@@ -8,19 +6,30 @@
 ***
 
 ### Short description
-**EduCamp** is a comprehensive mobile application developed for the **Android platform** to streamline the management and participation in educational camps. It provides users with a seamless experience for browsing available courses, managing registrations, and receiving timely updates and notifications.
+**EduCamp** is a specialized, multi-role Android application designed to build a direct and controlled connection between **Guardians**, **Teachers**, and the central **Admin**. The platform enables **Guardians** to find and select the best-suited **Teachers** for their students, while **Teachers** create professional profiles to secure tuition opportunities. The **Admin** maintains complete oversight and control over all user accounts and system activities.
 
 ***
 
 ### Features
-This application is designed with the following key features to enhance the user experience:
+This application is built around three distinct user panels, each providing tailored functionality:
 
-* **Course Catalog:** Easily browse and view details for all available educational camps and courses.
-* **User Registration:** Secure and straightforward process for users to register for specific camps or courses.
-* **User Profiles:** Dedicated profiles to manage personal information, view past registrations, and track progress.
-* **Notifications & Alerts:** Real-time push notifications for camp schedules, changes, and important announcements.
-* **Search Functionality:** Quickly find specific courses or camps using keywords, categories, or filters.
-* **Responsive UI:** A clean and intuitive user interface designed with Material Design principles for a smooth experience on all Android devices.
+#### 1. Teacher Panel
+* **Account Creation:** Teachers can sign up and create a detailed professional profile.
+* **Profile Management:** Set subjects, expertise, experience, and preferred tutoring methods.
+* **Student Sourcing:** Browse and filter uploaded student profiles (posted by Guardians) seeking tuition.
+* **Tuition Management:** Track active and past tuition arrangements with Guardians.
+
+#### 2. Guardian Panel
+* **Account Creation:** Guardians can create accounts to access the platform.
+* **Student Profile Upload:** Upload and manage profiles for their children/students, specifying learning needs.
+* **Teacher Search & Selection:** Advanced search and filtering tools to find qualified teachers based on location, subject, and experience.
+* **Communication:** Direct in-app communication channels to discuss details with prospective teachers.
+
+#### 3. Admin Panel
+* **User Oversight:** Complete control over all user accounts (Teacher and Guardian).
+* **Verification & Approval:** Ability to verify, approve, or suspend new Teacher accounts and profile changes.
+* **System Control:** Manage core application settings, content, and categories (e.g., list of subjects, camp types).
+* **Reporting:** Access system-wide statistics and activity logs.
 
 ***
 
@@ -49,8 +58,10 @@ After successfully installing the project, you can run the app on an emulator or
 ***
 
 ### Screenshots
-A collection of screenshots showcasing the main views and functionality of the EduCamp application.
+A collection of screenshots showcasing the various user panels (Guardian, Teacher, and Admin) and key features of the EduCamp application.
 
-| Home Screen | Course Details | Registration Flow |
+| Installed App Icon | App Splash loading | App Panel |
 | :---: | :---: | :---: |
-| [Insert Image 1 Link Here] | [Insert Image 2 Link Here] | [Insert Image 3 Link Here] |
+| [[Insert Guardian Panel Screenshot Link Here](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/installed%20app%20icon.jpg)] | [[Insert Teacher Profile Screenshot Link Here](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/app%20splash%20screen%20loading.jpg)] | [[Insert Admin View Screenshot Link Here](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/apps%20interface.jpg)] |
+
+
