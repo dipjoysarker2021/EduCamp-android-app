@@ -3,6 +3,8 @@
 ### Project title
 **EduCamp - Android App**
 
+![Project Logo](logo.png)
+
 ***
 
 ### Short description
@@ -63,5 +65,15 @@ A collection of screenshots showcasing the various user panels (Guardian, Teache
 | Installed App Icon | App Splash loading | App Panel |
 | :---: | :---: | :---: |
 | [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/installed%20app%20icon.jpg)] | [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/app%20splash%20screen%20loading.jpg)] | [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/apps%20interface.jpg)] |
+
+### Installed App Icon
+![Installed Icon](installed%20app%20icon.jpg)
+
+### Splash Screen
+![Splash Screen](app%20splash%20screen%20loading.jpg)
+
+### App InterFace
+![App Interface](apps%20interface.jpg)
+
 
 
