@@ -62,6 +62,6 @@ A collection of screenshots showcasing the various user panels (Guardian, Teache
 
 | Installed App Icon | App Splash loading | App Panel |
 | :---: | :---: | :---: |
-| [[Insert Guardian Panel Screenshot Link Here](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/installed%20app%20icon.jpg)] | [[Insert Teacher Profile Screenshot Link Here](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/app%20splash%20screen%20loading.jpg)] | [[Insert Admin View Screenshot Link Here](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/apps%20interface.jpg)] |
+| [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/installed%20app%20icon.jpg)] | [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/app%20splash%20screen%20loading.jpg)] | [[View](https://github.com/dipjoysarker2021/EduCamp-android-app/blob/main/apps%20interface.jpg)] |
 
 
